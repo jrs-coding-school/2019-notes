@@ -1,4 +1,4 @@
-## Goals
+## Objectives* 
 
 - Relief tracker with SQL
 - Security Authentication
@@ -27,3 +27,5 @@
 - team concepts
 - onboarding
 - software development lifecycle
+
+*(tenative and subject to change)*
